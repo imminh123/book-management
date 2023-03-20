@@ -8,7 +8,7 @@ Thanks Peter for this opportunity, not just for the interview but also for the c
 
 ## Demo
 
-Here a demo video on how the app should work
+Here's a demo video on how the app should work
 
 [![Watch the video](https://i.postimg.cc/5ykDLxgG/thumbnail.jpg)](https://youtu.be/-iU7erGQwZc)
 
