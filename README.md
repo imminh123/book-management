@@ -1,9 +1,3 @@
-# Disclaimer
-
-Thanks Peter for this opportunity, not just for the interview but also for the challenge that I believe I can do much better than this. There're always things to learn even from this test project. Whether or not this meets 3IPK’s standard, I would love to hear your feedback if possible. Have a nice day!
-
----
-
 # Documentation
 
 ## Demo
